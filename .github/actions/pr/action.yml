@@ -1,5 +1,5 @@
 name: "PR checks"
-description: "Basic PR validation for harpertoken"
+description: "Basic PR validation for coccinella-labs"
 runs:
   using: "composite"
   steps:
