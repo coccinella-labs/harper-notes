@@ -8,7 +8,7 @@
 ## Install from Source
 
 ```bash
-git clone https://github.com/harpertoken/harper.git
+git clone https://github.com/coccinella-labs/harper.git
 cd harper
 cargo build --release
 ```

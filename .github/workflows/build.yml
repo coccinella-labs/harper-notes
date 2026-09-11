@@ -1,4 +1,4 @@
-# Copyright 2025 harpertoken
+# Copyright 2025 coccinella-labs
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -115,7 +115,7 @@ jobs:
       uses: docker/metadata-action@v5
       with:
         images: |
-          harpertoken/harper
+          coccinella-labs/harper
           ghcr.io/${{ github.repository }}/harper
         tags: |
           type=ref,event=branch

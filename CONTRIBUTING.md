@@ -1,5 +1,5 @@
 <!--
-Copyright 2025 harpertoken
+Copyright 2025 coccinella-labs
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -16,8 +16,8 @@ limitations under the License.
 
 # Contributing to Harper
 
-[![GitHub Issues](https://img.shields.io/github/issues/harpertoken/harper)](https://github.com/harpertoken/harper/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/harpertoken/harper)](https://github.com/harpertoken/harper/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/coccinella-labs/harper)](https://github.com/coccinella-labs/harper/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/coccinella-labs/harper)](https://github.com/coccinella-labs/harper/pulls)
 
 We welcome contributions from the community! This guide will help you get started with contributing to Harper.
 
@@ -48,7 +48,7 @@ Before contributing, ensure you have:
 
 1. **Fork and clone** the repository:
    ```bash
-   git clone https://github.com/harpertoken/harper.git
+   git clone https://github.com/coccinella-labs/harper.git
    cd harper
    ```
 
@@ -144,7 +144,7 @@ The main branch for this project is called "main".
 
 ### 1. Choose an Issue
 
-- Check [GitHub Issues](https://github.com/harpertoken/harper/issues) for open tasks
+- Check [GitHub Issues](https://github.com/coccinella-labs/harper/issues) for open tasks
 - Look for issues labeled `good first issue` or `help wanted`
 - Comment on the issue to indicate you're working on it
 
@@ -425,7 +425,7 @@ Only write high-value comments if at all. Avoid talking to the user through comm
 
 ## Community
 
-- **Discussions**: [GitHub Discussions](https://github.com/harpertoken/harper/discussions)
+- **Discussions**: [GitHub Discussions](https://github.com/coccinella-labs/harper/discussions)
 - **Discord**: Join our community chat (link TBD)
 - **Newsletter**: Subscribe for updates (link TBD)
 
